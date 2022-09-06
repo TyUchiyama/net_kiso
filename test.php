@@ -1,4 +1,4 @@
 <?php
 print('Hello Wordl!!');
-print("<br>Hello ITO.com");
+print("<br>Hello ECC!!");
 ?>
